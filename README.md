@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Pow3rZ/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://pow3rz.github.io/stats-preview-card-component/)
+- Solution URL: [https://github.com/Pow3rZ/stats-preview-card-component]
+- Live Site URL: [https://pow3rz.github.io/stats-preview-card-component/]
 
 ## My process
 
@@ -57,5 +57,5 @@ Positives of mobile-first approach (smaller easier to read css file).
 
 ## Author
 
-- Frontend Mentor - [@Pow3rZ](https://www.frontendmentor.io/profile/Pow3rZ)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Pow3rZ]
 
